@@ -1,2 +1,5 @@
 git new coomads 
 git status
+git sdscscsdcscscs
+scsdcscscsdd
+sdsdvsdvsdv
